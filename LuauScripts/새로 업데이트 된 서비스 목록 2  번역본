@@ -1,0 +1,7 @@
+AnalyticsService: PlayFab 연동이나 Roblox 자체 개발통계용
+
+ProximityPromptService: 물체 근접 상호작용, 예전에는 따로 없었음
+
+TweenService: 예전엔 별도 Tweening 플러그인 쓰던 거, 이제 공식 서비스
+
+VoiceChatService: 2023~2024에 정식 출시됨, 옛날 목록에는 없었음
